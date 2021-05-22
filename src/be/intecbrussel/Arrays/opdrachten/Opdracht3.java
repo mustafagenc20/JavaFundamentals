@@ -1,4 +1,4 @@
-package be.infernalwhale;
+package be.intecbrussel.Arrays.opdrachten;
 
 public class Opdracht3 {
     public static void main(String[] args) {
