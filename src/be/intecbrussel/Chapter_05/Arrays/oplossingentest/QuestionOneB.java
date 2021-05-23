@@ -1,6 +1,4 @@
-package be.infernalwhale;
-
-import java.util.Arrays;
+package be.intecbrussel.Chapter_05.Arrays.oplossingentest;
 
 public class QuestionOneB {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package be.infernalwhale;
+package be.intecbrussel.Chapter_05.Arrays;
 
 import java.util.Arrays;
 

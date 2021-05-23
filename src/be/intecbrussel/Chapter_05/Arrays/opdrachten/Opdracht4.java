@@ -1,4 +1,4 @@
-package be.intecbrussel.Arrays.opdrachten;
+package be.intecbrussel.Chapter_05.Arrays.opdrachten;
 
 public class Opdracht4 {
     public static void main(String[] args) {

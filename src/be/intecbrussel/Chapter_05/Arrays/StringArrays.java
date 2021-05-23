@@ -1,4 +1,4 @@
-package be.infernalwhale;
+package be.intecbrussel.Chapter_05.Arrays;
 
 public class StringArrays {
     public static void main(String[] args) {
